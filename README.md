@@ -1,4 +1,4 @@
-# 🌌 Exoplanet Detection Challenge
+# 🌌 Exoplanet Detection 
 
 <div align="center">
 
