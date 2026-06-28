@@ -137,9 +137,9 @@ Models were evaluated using:
 ## Clone the repository
 
 ```bash
-git clone [https://github.com/named-rishabh/exoplanet-detection.git](https://github.com/named-rishabh/Exoplanet_Detection)
+git clone https://github.com/named-rishabh/Exoplanet_Detection.git
 
-cd exoplanet-detection
+cd Exoplanet_Detection
 ```
 
 ## Install dependencies
