@@ -151,7 +151,7 @@ wheels = [
 ]
 
 [[package]]
-name = "exoplanet-detection-challenge"
+name = "exoplanet-detection"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
