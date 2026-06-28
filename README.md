@@ -99,8 +99,8 @@ Missing values were estimated using known relationships between:
 The following models were trained and compared:
 
 * ✅ CatBoostClassifier
-* ✅ XGBoostClassifier
-* ✅ LightGBMClassifier
+* ✅ Logistic Regression
+* ✅ Support Vector Classifier
 * ✅ Random Forest
 * ✅ Gradient Boosting
 * ✅ Extra Trees
@@ -127,8 +127,6 @@ Models were evaluated using:
 | NumPy        | Numerical Computing |
 | Scikit-Learn | ML Pipeline         |
 | CatBoost     | Gradient Boosting   |
-| XGBoost      | Gradient Boosting   |
-| LightGBM     | Gradient Boosting   |
 | Matplotlib   | Visualization       |
 | Seaborn      | Statistical Plots   |
 
@@ -139,7 +137,7 @@ Models were evaluated using:
 ## Clone the repository
 
 ```bash
-git clone https://github.com/named-rishabh/exoplanet-detection.git
+git clone [https://github.com/named-rishabh/exoplanet-detection.git](https://github.com/named-rishabh/Exoplanet_Detection)
 
 cd exoplanet-detection
 ```
