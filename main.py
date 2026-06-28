@@ -1,5 +1,5 @@
 def main():
-    print("Hello from exoplanet-detection-challenge!")
+    print("Hello from exoplanet-detection!")
 
 
 if __name__ == "__main__":
